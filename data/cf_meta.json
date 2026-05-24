@@ -1,48 +1,28 @@
 {
   "l3_vectors": {
-    "Udp Flood": 44.682558,
-    "Mirai (Udp) Flood": 33.969193,
-    "Syn Flood": 9.148721,
-    "Ack Flood": 1.928261,
-    "Dns Amplification": 1.666015,
-    "Tcp Flags Flood": 1.328037,
-    "Bogon Flood": 1.238894,
-    "Invalid Raknet Flood": 1.02786,
-    "Mirai (Tcp) Flood": 0.964301,
-    "Other": 4.046162
+    "Network DDoS": 100.0
   },
   "l3_protocols": {
-    "UDP": 83.652526,
-    "TCP": 15.457685,
-    "GRE": 0.737999,
-    "ICMP": 0.150839
+    "UDP": 83.92841,
+    "TCP": 15.813877,
+    "GRE": 0.251732,
+    "ICMP": 0.004911
   },
   "l7_methods": {
-    "HTTP GET Flood": 80.356782,
-    "HTTP POST Flood": 15.245639,
-    "HTTP HEAD Flood": 3.5489,
-    "HTTP OPTIONS Flood": 0.502943,
-    "HTTP PATCH Flood": 0.119814,
-    "HTTP DELETE Flood": 0.115612,
-    "HTTP PUT Flood": 0.102828,
-    "HTTP UNKNOWN Flood": 0.007111,
-    "HTTP ACL Flood": 0.000234,
-    "HTTP other Flood": 0.000138
+    "HTTP GET Flood": 80.539072,
+    "HTTP POST Flood": 15.132648,
+    "HTTP HEAD Flood": 3.490426,
+    "HTTP OPTIONS Flood": 0.497356,
+    "HTTP PATCH Flood": 0.116799,
+    "HTTP DELETE Flood": 0.11486,
+    "HTTP PUT Flood": 0.100319,
+    "HTTP UNKNOWN Flood": 0.008095,
+    "HTTP ACL Flood": 0.000257,
+    "HTTP other Flood": 0.000168
   },
-  "l7_industries": {
-    "Media": 25.041311,
-    "Computer Software": 15.7869,
-    "Information Technology and Services": 15.472056,
-    "Retail": 6.881454,
-    "Gambling & Casinos": 5.678224,
-    "Cryptocurrency": 4.608787,
-    "Online Media": 3.279122,
-    "Internet": 2.673471,
-    "Telecommunications": 2.60933,
-    "Financial Services": 1.629073
-  },
+  "l7_industries": {},
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-05-24T00:00:44Z"
+  "updatedAt": "2026-05-24T05:03:45Z"
 }
