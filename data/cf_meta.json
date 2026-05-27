@@ -1,48 +1,34 @@
 {
   "l3_vectors": {
-    "Udp Flood": 44.016209,
-    "Mirai (Udp) Flood": 34.769034,
-    "Syn Flood": 12.087264,
-    "Ack Flood": 2.419238,
-    "Invalid Raknet Flood": 1.301853,
-    "Tls Client Hello Flood": 1.286554,
-    "Dns Flood": 1.264791,
-    "Mirai (Tcp) Flood": 0.481811,
-    "Dns Amplification": 0.45748,
-    "Other": 1.915768
+    "Udp Flood": 43.684515,
+    "Mirai (Udp) Flood": 36.318111,
+    "Syn Flood": 10.802602,
+    "Ack Flood": 2.376576,
+    "Dns Flood": 1.420142,
+    "Invalid Raknet Flood": 1.294498,
+    "Tls Client Hello Flood": 1.214746,
+    "Mirai (Tcp) Flood": 0.516194,
+    "Tcp Flood": 0.498529,
+    "Other": 1.87409
   },
-  "l3_protocols": {
-    "UDP": 82.637917,
-    "TCP": 16.967008,
-    "GRE": 0.387112,
-    "ICMP": 0.00547
-  },
+  "l3_protocols": {},
   "l7_methods": {
-    "HTTP GET Flood": 79.618863,
-    "HTTP POST Flood": 17.811151,
-    "HTTP HEAD Flood": 1.629224,
-    "HTTP OPTIONS Flood": 0.522477,
-    "HTTP PATCH Flood": 0.159567,
-    "HTTP DELETE Flood": 0.127427,
-    "HTTP PUT Flood": 0.104929,
-    "HTTP UNKNOWN Flood": 0.025929,
-    "HTTP ACL Flood": 0.000337,
-    "HTTP other Flood": 9.5e-05
+    "HTTP Flood": 100.0
   },
   "l7_industries": {
-    "Media": 22.012617,
-    "Computer Software": 17.28849,
-    "Information Technology and Services": 15.595762,
-    "Retail": 7.829011,
-    "Gambling & Casinos": 5.888816,
-    "Online Media": 3.214219,
-    "Cryptocurrency": 2.898093,
-    "Arts and Crafts": 2.750895,
-    "Internet": 2.700072,
-    "Telecommunications": 2.515893
+    "Media": 22.542215,
+    "Computer Software": 16.841976,
+    "Information Technology and Services": 15.193768,
+    "Retail": 7.746789,
+    "Gambling & Casinos": 6.63824,
+    "Online Media": 3.162693,
+    "Cryptocurrency": 2.822652,
+    "Arts and Crafts": 2.726033,
+    "Internet": 2.713973,
+    "Telecommunications": 2.39759
   },
   "bgp_count": 0,
   "l3_count": 0,
   "l7_count": 600,
-  "updatedAt": "2026-05-27T17:58:10Z"
+  "updatedAt": "2026-05-27T20:27:44Z"
 }
