@@ -1,39 +1,48 @@
 {
   "l3_vectors": {
-    "Network DDoS": 100.0
+    "Udp Flood": 43.010998,
+    "Mirai (Udp) Flood": 39.74922,
+    "Syn Flood": 8.558039,
+    "Ack Flood": 2.738847,
+    "Invalid Raknet Flood": 1.325408,
+    "Dns Flood": 1.003958,
+    "Tls Client Hello Flood": 0.911955,
+    "Dns Amplification": 0.515121,
+    "Tcp Flood": 0.440454,
+    "Other": 1.746
   },
   "l3_protocols": {
-    "UDP": 84.622875,
-    "TCP": 15.059117,
-    "GRE": 0.310196,
-    "ICMP": 0.005153
+    "UDP": 86.769715,
+    "TCP": 13.147316,
+    "GRE": 0.075034,
+    "ICMP": 0.005188
   },
   "l7_methods": {
-    "HTTP GET Flood": 79.713692,
-    "HTTP POST Flood": 17.757937,
-    "HTTP HEAD Flood": 1.63069,
-    "HTTP OPTIONS Flood": 0.507629,
-    "HTTP PATCH Flood": 0.153966,
-    "HTTP DELETE Flood": 0.122868,
-    "HTTP PUT Flood": 0.104373,
-    "HTTP UNKNOWN Flood": 0.008575,
-    "HTTP ACL Flood": 0.000224,
-    "HTTP other Flood": 4.6e-05
+    "HTTP GET Flood": 80.184803,
+    "HTTP POST Flood": 17.371933,
+    "HTTP HEAD Flood": 1.589074,
+    "HTTP OPTIONS Flood": 0.486133,
+    "HTTP PATCH Flood": 0.144473,
+    "HTTP DELETE Flood": 0.117253,
+    "HTTP PUT Flood": 0.097487,
+    "HTTP UNKNOWN Flood": 0.008634,
+    "HTTP ACL Flood": 0.000157,
+    "HTTP other Flood": 5.4e-05
   },
   "l7_industries": {
-    "Media": 21.609539,
-    "Computer Software": 16.486249,
-    "Information Technology and Services": 15.079642,
-    "Gambling & Casinos": 7.977375,
-    "Retail": 7.909501,
-    "Online Media": 3.109813,
-    "Cryptocurrency": 2.770787,
-    "Internet": 2.7245,
-    "Arts and Crafts": 2.678702,
-    "Telecommunications": 2.41603
+    "Media": 20.266362,
+    "Computer Software": 16.711707,
+    "Information Technology and Services": 14.626855,
+    "Gambling & Casinos": 10.140312,
+    "Retail": 7.99107,
+    "Online Media": 3.04644,
+    "Cryptocurrency": 2.729538,
+    "Internet": 2.626108,
+    "Arts and Crafts": 2.568945,
+    "Telecommunications": 2.409692
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-05-28T00:02:54Z"
+  "updatedAt": "2026-05-28T05:11:31Z"
 }
