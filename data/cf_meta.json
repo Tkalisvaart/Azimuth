@@ -1,48 +1,48 @@
 {
   "l3_vectors": {
-    "Udp Flood": 45.941141,
-    "Mirai (Udp) Flood": 28.433078,
-    "Dns Flood": 12.768738,
-    "Syn Flood": 5.424799,
-    "Ack Flood": 2.860671,
-    "Tls Client Hello Flood": 1.268789,
-    "Ntp Amplification": 0.645416,
-    "Sfu Flood": 0.461339,
-    "Quic Flood": 0.445693,
-    "Other": 1.750337
+    "Udp Flood": 46.796924,
+    "Mirai (Udp) Flood": 33.244264,
+    "Syn Flood": 6.015206,
+    "Dns Flood": 5.666791,
+    "Ack Flood": 3.232816,
+    "Tls Client Hello Flood": 1.42877,
+    "Ntp Amplification": 0.826436,
+    "Sfu Flood": 0.471298,
+    "Tcp Flood": 0.387424,
+    "Other": 1.930069
   },
   "l3_protocols": {
-    "UDP": 89.477785,
-    "TCP": 10.500075,
-    "ICMP": 0.016993,
-    "GRE": 0.003315
+    "UDP": 88.20581,
+    "TCP": 11.770678,
+    "ICMP": 0.018196,
+    "GRE": 0.00326
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.212602,
-    "HTTP POST Flood": 15.007242,
-    "HTTP HEAD Flood": 2.086085,
-    "HTTP OPTIONS Flood": 0.388943,
-    "HTTP DELETE Flood": 0.103343,
-    "HTTP PATCH Flood": 0.088531,
-    "HTTP PUT Flood": 0.084739,
-    "HTTP UNKNOWN Flood": 0.028281,
-    "HTTP ACL Flood": 0.000198,
-    "HTTP other Flood": 3.4e-05
+    "HTTP GET Flood": 82.246967,
+    "HTTP POST Flood": 14.975939,
+    "HTTP HEAD Flood": 2.079143,
+    "HTTP OPTIONS Flood": 0.39087,
+    "HTTP DELETE Flood": 0.103528,
+    "HTTP PATCH Flood": 0.089443,
+    "HTTP PUT Flood": 0.085723,
+    "HTTP UNKNOWN Flood": 0.028204,
+    "HTTP ACL Flood": 0.000136,
+    "HTTP other Flood": 4.7e-05
   },
   "l7_industries": {
-    "Retail": 19.844108,
-    "Media": 14.636532,
-    "Information Technology and Services": 13.986698,
-    "Computer Software": 13.343875,
-    "Gambling & Casinos": 5.191846,
-    "Hospitality": 4.903308,
-    "Gaming": 2.584774,
-    "Cryptocurrency": 2.518393,
-    "Internet": 2.435226,
-    "Telecommunications": 2.33628
+    "Retail": 21.405024,
+    "Media": 13.935058,
+    "Information Technology and Services": 13.775635,
+    "Computer Software": 13.209613,
+    "Gambling & Casinos": 5.074933,
+    "Hospitality": 4.766796,
+    "Gaming": 2.740355,
+    "Cryptocurrency": 2.451046,
+    "Internet": 2.427025,
+    "Telecommunications": 2.251353
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-06-14T22:15:56Z"
+  "updatedAt": "2026-06-15T00:16:22Z"
 }
