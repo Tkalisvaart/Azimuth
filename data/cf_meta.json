@@ -1,39 +1,48 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 33.479868,
-    "Udp Flood": 31.300862,
-    "Syn Flood": 22.109269,
-    "Sfu Flood": 2.769484,
-    "Ack Flood": 2.423661,
-    "Tls Client Hello Flood": 1.680631,
-    "Dns Flood": 1.37068,
-    "Dns Amplification": 1.370554,
-    "Tcp Flood": 1.154978,
-    "Other": 2.340013
+    "Udp Flood": 36.206433,
+    "Mirai (Udp) Flood": 32.277892,
+    "Syn Flood": 18.392759,
+    "Sfu Flood": 3.062575,
+    "Tls Client Hello Flood": 1.954935,
+    "Ack Flood": 1.774047,
+    "Dns Flood": 1.595574,
+    "Dns Amplification": 1.589654,
+    "Udp Fragments Flood": 0.929621,
+    "Other": 2.216512
   },
   "l3_protocols": {
-    "UDP": 71.887475,
-    "TCP": 27.90452,
-    "GRE": 0.184912,
-    "ICMP": 0.022264
+    "UDP": 76.572087,
+    "TCP": 23.201506,
+    "GRE": 0.199715,
+    "ICMP": 0.025749
   },
   "l7_methods": {
-    "HTTP Flood": 100.0
+    "HTTP GET Flood": 80.806504,
+    "HTTP POST Flood": 15.073429,
+    "HTTP HEAD Flood": 3.248404,
+    "HTTP OPTIONS Flood": 0.46627,
+    "HTTP PATCH Flood": 0.149641,
+    "HTTP DELETE Flood": 0.120602,
+    "HTTP PUT Flood": 0.103395,
+    "HTTP UNKNOWN Flood": 0.03139,
+    "HTTP ACL Flood": 0.000246,
+    "HTTP other Flood": 0.000118
   },
   "l7_industries": {
-    "Retail": 19.908867,
-    "Information Technology and Services": 16.329023,
-    "Computer Software": 14.326871,
-    "Media": 12.410004,
-    "Gambling & Casinos": 5.212182,
-    "Internet": 3.373772,
-    "Cryptocurrency": 3.356469,
-    "Telecommunications": 3.340567,
-    "Online Media": 2.313256,
-    "Arts and Crafts": 1.828449
+    "Retail": 20.252262,
+    "Information Technology and Services": 16.324274,
+    "Computer Software": 14.360855,
+    "Media": 12.579294,
+    "Gambling & Casinos": 5.155946,
+    "Internet": 3.363637,
+    "Telecommunications": 3.355674,
+    "Cryptocurrency": 2.957097,
+    "Online Media": 2.357121,
+    "Arts and Crafts": 1.729081
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-06-19T18:58:25Z"
+  "updatedAt": "2026-06-19T20:41:52Z"
 }
