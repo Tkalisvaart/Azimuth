@@ -1,39 +1,48 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 44.935443,
-    "Udp Flood": 16.048858,
-    "Syn Flood": 13.897955,
-    "Sfu Flood": 8.868963,
-    "Dns Amplification": 3.772081,
-    "Tls Client Hello Flood": 3.574674,
-    "Udp Fragments Flood": 2.634062,
-    "Ack Flood": 2.40286,
-    "Dns Flood": 1.272282,
-    "Other": 2.592821
+    "Mirai (Udp) Flood": 45.023423,
+    "Udp Flood": 14.724167,
+    "Syn Flood": 14.349425,
+    "Sfu Flood": 9.849568,
+    "Dns Amplification": 3.608252,
+    "Tls Client Hello Flood": 3.490567,
+    "Ack Flood": 2.572335,
+    "Udp Fragments Flood": 2.522455,
+    "Dns Flood": 1.326749,
+    "Other": 2.533057
   },
   "l3_protocols": {
-    "UDP": 78.619794,
-    "TCP": 21.208869,
-    "GRE": 0.153229,
-    "ICMP": 0.017177
+    "UDP": 78.128418,
+    "TCP": 21.703569,
+    "GRE": 0.150433,
+    "ICMP": 0.016601
   },
   "l7_methods": {
-    "HTTP Flood": 100.0
+    "HTTP GET Flood": 84.798691,
+    "HTTP POST Flood": 12.313189,
+    "HTTP HEAD Flood": 2.038707,
+    "HTTP OPTIONS Flood": 0.418474,
+    "HTTP PATCH Flood": 0.15303,
+    "HTTP DELETE Flood": 0.134596,
+    "HTTP PUT Flood": 0.125438,
+    "HTTP UNKNOWN Flood": 0.017786,
+    "HTTP ACL Flood": 3.9e-05,
+    "HTTP other Flood": 5.1e-05
   },
   "l7_industries": {
-    "Computer Software": 18.466558,
-    "Retail": 14.712823,
-    "Information Technology and Services": 11.318077,
-    "Media": 10.796834,
-    "Gambling & Casinos": 5.739638,
-    "Internet": 3.612376,
-    "Telecommunications": 3.610417,
-    "Cryptocurrency": 3.56899,
-    "Gaming": 3.125774,
-    "Online Media": 2.147212
+    "Computer Software": 18.728063,
+    "Retail": 15.130236,
+    "Information Technology and Services": 11.140371,
+    "Media": 10.140265,
+    "Gambling & Casinos": 5.803314,
+    "Telecommunications": 3.693812,
+    "Internet": 3.659457,
+    "Cryptocurrency": 3.611272,
+    "Gaming": 3.123651,
+    "Financial Services": 2.163201
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-07-02T12:10:50Z"
+  "updatedAt": "2026-07-02T15:19:00Z"
 }
