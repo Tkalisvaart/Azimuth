@@ -1,48 +1,32 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 51.819202,
-    "Udp Flood": 21.825617,
-    "Dns Flood": 14.067497,
-    "Syn Flood": 3.886598,
-    "Dns Amplification": 3.04688,
-    "Sfu Flood": 1.198557,
-    "Tls Client Hello Flood": 0.830562,
-    "Ack Flood": 0.705969,
-    "Ntp Amplification": 0.575831,
-    "Other": 2.04329
+    "Mirai (Udp) Flood": 47.549121,
+    "Udp Flood": 22.060261,
+    "Dns Flood": 11.320046,
+    "Syn Flood": 11.002402,
+    "Dns Amplification": 2.822568,
+    "Sfu Flood": 1.112811,
+    "Tls Client Hello Flood": 0.922762,
+    "Ack Flood": 0.663496,
+    "Udp Fragments Flood": 0.51859,
+    "Other": 2.027947
   },
-  "l3_protocols": {
-    "UDP": 94.021147,
-    "TCP": 5.953731,
-    "ICMP": 0.015567,
-    "GRE": 0.00891
-  },
+  "l3_protocols": {},
   "l7_methods": {
-    "HTTP GET Flood": 82.283967,
-    "HTTP POST Flood": 14.26017,
-    "HTTP HEAD Flood": 2.329712,
-    "HTTP OPTIONS Flood": 0.623636,
-    "HTTP PATCH Flood": 0.194379,
-    "HTTP DELETE Flood": 0.14259,
-    "HTTP PUT Flood": 0.122658,
-    "HTTP UNKNOWN Flood": 0.04263,
-    "HTTP ACL Flood": 0.000204,
-    "HTTP other Flood": 5.4e-05
+    "HTTP GET Flood": 82.130571,
+    "HTTP POST Flood": 14.332095,
+    "HTTP HEAD Flood": 2.374853,
+    "HTTP OPTIONS Flood": 0.63843,
+    "HTTP PATCH Flood": 0.209596,
+    "HTTP DELETE Flood": 0.148223,
+    "HTTP PUT Flood": 0.123675,
+    "HTTP UNKNOWN Flood": 0.042307,
+    "HTTP ACL Flood": 0.000195,
+    "HTTP other Flood": 5.5e-05
   },
-  "l7_industries": {
-    "Computer Software": 21.231561,
-    "Information Technology and Services": 11.227959,
-    "Retail": 11.101056,
-    "Gambling & Casinos": 8.330384,
-    "Telecommunications": 5.045775,
-    "Internet": 4.807136,
-    "Cryptocurrency": 4.657094,
-    "Media": 4.394837,
-    "Online Media": 2.514723,
-    "Financial Services": 2.36399
-  },
+  "l7_industries": {},
   "bgp_count": 0,
-  "l3_count": 900,
-  "l7_count": 600,
-  "updatedAt": "2026-07-31T09:47:30Z"
+  "l3_count": 0,
+  "l7_count": 0,
+  "updatedAt": "2026-07-31T12:04:35Z"
 }
