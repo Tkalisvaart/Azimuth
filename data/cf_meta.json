@@ -1,32 +1,48 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 47.549121,
-    "Udp Flood": 22.060261,
-    "Dns Flood": 11.320046,
-    "Syn Flood": 11.002402,
-    "Dns Amplification": 2.822568,
-    "Sfu Flood": 1.112811,
-    "Tls Client Hello Flood": 0.922762,
-    "Ack Flood": 0.663496,
-    "Udp Fragments Flood": 0.51859,
-    "Other": 2.027947
+    "Mirai (Udp) Flood": 44.531441,
+    "Udp Flood": 26.203054,
+    "Syn Flood": 12.306372,
+    "Dns Flood": 9.070295,
+    "Dns Amplification": 2.688428,
+    "Tls Client Hello Flood": 1.046658,
+    "Sfu Flood": 1.027634,
+    "Ack Flood": 0.633035,
+    "Udp Fragments Flood": 0.510351,
+    "Other": 1.982734
   },
-  "l3_protocols": {},
+  "l3_protocols": {
+    "UDP": 85.371271,
+    "TCP": 14.54673,
+    "GRE": 0.068572,
+    "ICMP": 0.013142
+  },
   "l7_methods": {
-    "HTTP GET Flood": 82.130571,
-    "HTTP POST Flood": 14.332095,
-    "HTTP HEAD Flood": 2.374853,
-    "HTTP OPTIONS Flood": 0.63843,
-    "HTTP PATCH Flood": 0.209596,
-    "HTTP DELETE Flood": 0.148223,
-    "HTTP PUT Flood": 0.123675,
-    "HTTP UNKNOWN Flood": 0.042307,
-    "HTTP ACL Flood": 0.000195,
-    "HTTP other Flood": 5.5e-05
+    "HTTP GET Flood": 82.01448,
+    "HTTP POST Flood": 14.447479,
+    "HTTP HEAD Flood": 2.359997,
+    "HTTP OPTIONS Flood": 0.618783,
+    "HTTP PATCH Flood": 0.215815,
+    "HTTP DELETE Flood": 0.14933,
+    "HTTP PUT Flood": 0.126317,
+    "HTTP UNKNOWN Flood": 0.06755,
+    "HTTP ACL Flood": 0.000215,
+    "HTTP UNLOCK Flood": 3.5e-05
   },
-  "l7_industries": {},
+  "l7_industries": {
+    "Computer Software": 20.898185,
+    "Information Technology and Services": 11.27702,
+    "Retail": 10.867507,
+    "Gambling & Casinos": 9.938777,
+    "Telecommunications": 4.960725,
+    "Internet": 4.740898,
+    "Cryptocurrency": 4.564819,
+    "Media": 3.581505,
+    "Financial Services": 2.287395,
+    "Online Media": 2.257903
+  },
   "bgp_count": 0,
-  "l3_count": 0,
-  "l7_count": 0,
-  "updatedAt": "2026-07-31T12:04:35Z"
+  "l3_count": 900,
+  "l7_count": 600,
+  "updatedAt": "2026-07-31T15:22:02Z"
 }
