@@ -1,47 +1,47 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 67.095964,
-    "Udp Flood": 21.074851,
-    "Sfu Flood": 3.298052,
-    "Dns Flood": 2.771414,
-    "Quic Flood": 1.392453,
-    "Syn Flood": 1.352265,
-    "Mirai (Tcp) Flood": 0.614669,
-    "Invalid Enet Flood": 0.557339,
-    "Ack Flood": 0.476689,
-    "Other": 1.366308
+    "Mirai (Udp) Flood": 63.083492,
+    "Udp Flood": 18.816318,
+    "Syn Flood": 7.97433,
+    "Sfu Flood": 3.103727,
+    "Dns Flood": 2.706321,
+    "Quic Flood": 1.297165,
+    "Ack Flood": 0.701943,
+    "Mirai (Tcp) Flood": 0.602043,
+    "Invalid Enet Flood": 0.523103,
+    "Other": 1.191556
   },
   "l3_protocols": {
-    "UDP": 97.280556,
-    "TCP": 2.695017,
-    "ICMP": 0.015769,
-    "GRE": 0.008241
+    "UDP": 90.44935,
+    "TCP": 9.530172,
+    "ICMP": 0.012388,
+    "GRE": 0.007742
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.685871,
-    "HTTP POST Flood": 13.239485,
-    "HTTP HEAD Flood": 2.750868,
-    "HTTP OPTIONS Flood": 0.689257,
-    "HTTP PATCH Flood": 0.213489,
-    "HTTP DELETE Flood": 0.180471,
-    "HTTP PUT Flood": 0.161796,
-    "HTTP UNKNOWN Flood": 0.07856,
-    "HTTP ACL Flood": 0.000203
+    "HTTP GET Flood": 82.757186,
+    "HTTP POST Flood": 13.204525,
+    "HTTP HEAD Flood": 2.745127,
+    "HTTP OPTIONS Flood": 0.65548,
+    "HTTP PATCH Flood": 0.212633,
+    "HTTP DELETE Flood": 0.179178,
+    "HTTP PUT Flood": 0.158923,
+    "HTTP UNKNOWN Flood": 0.086695,
+    "HTTP ACL Flood": 0.000252
   },
   "l7_industries": {
-    "Computer Software": 16.880178,
-    "Information Technology and Services": 16.040478,
-    "Retail": 11.722369,
-    "Holding Companies & Conglomerates": 6.487792,
-    "Gambling & Casinos": 6.014851,
-    "Telecommunications": 4.642666,
-    "Internet": 4.205527,
-    "Cryptocurrency": 3.606887,
-    "Arts and Crafts": 2.416365,
-    "Media": 2.40692
+    "Computer Software": 16.728495,
+    "Information Technology and Services": 15.969403,
+    "Retail": 11.488538,
+    "Gambling & Casinos": 6.874941,
+    "Holding Companies & Conglomerates": 6.457009,
+    "Telecommunications": 4.634551,
+    "Internet": 4.105522,
+    "Cryptocurrency": 3.575091,
+    "Arts and Crafts": 2.406566,
+    "Media": 2.400163
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-08-12T08:20:20Z"
+  "updatedAt": "2026-08-12T10:09:35Z"
 }
