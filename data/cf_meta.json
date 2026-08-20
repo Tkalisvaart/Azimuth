@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 81.967604,
-    "Udp Flood": 11.467761,
-    "Syn Flood": 3.052214,
-    "Dns Flood": 1.517215,
-    "Sfu Flood": 0.68086,
-    "Mirai (Tcp) Flood": 0.29394,
-    "Ack Flood": 0.259655,
-    "Dns Amplification": 0.184349,
-    "Udp Fragments Flood": 0.095611,
-    "Other": 0.480789
+    "Mirai (Udp) Flood": 82.764872,
+    "Udp Flood": 10.565539,
+    "Syn Flood": 2.763728,
+    "Dns Flood": 2.015984,
+    "Sfu Flood": 0.65528,
+    "Mirai (Tcp) Flood": 0.266014,
+    "Ack Flood": 0.238109,
+    "Dns Amplification": 0.176442,
+    "Quic Flood": 0.100202,
+    "Other": 0.453832
   },
   "l3_protocols": {
-    "UDP": 96.242966,
-    "TCP": 3.676912,
-    "GRE": 0.070484,
-    "ICMP": 0.005185
+    "UDP": 96.393033,
+    "TCP": 3.529989,
+    "GRE": 0.067659,
+    "ICMP": 0.005046
   },
   "l7_methods": {
-    "HTTP GET Flood": 83.160489,
-    "HTTP POST Flood": 12.734217,
-    "HTTP HEAD Flood": 3.035459,
-    "HTTP OPTIONS Flood": 0.434698,
-    "HTTP PATCH Flood": 0.221857,
-    "HTTP DELETE Flood": 0.18115,
-    "HTTP PUT Flood": 0.172314,
-    "HTTP UNKNOWN Flood": 0.059814
+    "HTTP GET Flood": 83.180644,
+    "HTTP POST Flood": 12.761728,
+    "HTTP HEAD Flood": 2.991744,
+    "HTTP OPTIONS Flood": 0.432691,
+    "HTTP PATCH Flood": 0.221591,
+    "HTTP DELETE Flood": 0.180829,
+    "HTTP PUT Flood": 0.171951,
+    "HTTP UNKNOWN Flood": 0.058821
   },
   "l7_industries": {
-    "Retail": 16.865681,
-    "Computer Software": 16.484832,
-    "Information Technology and Services": 13.777645,
-    "Gambling & Casinos": 6.423624,
-    "Telecommunications": 4.828053,
-    "Internet": 4.334835,
-    "Cryptocurrency": 3.988508,
-    "Media": 3.41532,
-    "Online Media": 3.050127,
-    "Marketing and Advertising": 2.331644
+    "Retail": 16.843914,
+    "Computer Software": 16.538585,
+    "Information Technology and Services": 13.615351,
+    "Gambling & Casinos": 6.696026,
+    "Telecommunications": 4.764849,
+    "Internet": 4.299527,
+    "Cryptocurrency": 3.891094,
+    "Media": 3.36247,
+    "Online Media": 3.189264,
+    "Marketing and Advertising": 2.324531
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-08-20T01:24:17Z"
+  "updatedAt": "2026-08-20T02:59:33Z"
 }
