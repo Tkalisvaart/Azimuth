@@ -1,45 +1,45 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 65.943045,
-    "Udp Flood": 25.888402,
-    "Dns Flood": 2.96747,
-    "Syn Flood": 1.559262,
-    "Ack Flood": 0.912416,
-    "Sfu Flood": 0.836126,
-    "Dns Amplification": 0.622155,
-    "Tcp Flood": 0.354469,
-    "Invalid Enet Flood": 0.214848,
-    "Other": 0.701805
+    "Mirai (Udp) Flood": 68.154544,
+    "Udp Flood": 24.218635,
+    "Dns Flood": 2.661487,
+    "Syn Flood": 1.51433,
+    "Ack Flood": 0.882474,
+    "Sfu Flood": 0.848245,
+    "Dns Amplification": 0.525977,
+    "Tcp Flood": 0.343572,
+    "Invalid Enet Flood": 0.196274,
+    "Other": 0.654461
   },
   "l3_protocols": {
-    "UDP": 97.040369,
-    "TCP": 2.949046,
-    "ICMP": 0.010369
+    "UDP": 97.449093,
+    "TCP": 2.541964,
+    "ICMP": 0.008747
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.111902,
-    "HTTP POST Flood": 14.881323,
-    "HTTP HEAD Flood": 2.356076,
-    "HTTP OPTIONS Flood": 0.301327,
-    "HTTP PATCH Flood": 0.113827,
-    "HTTP DELETE Flood": 0.105975,
-    "HTTP PUT Flood": 0.090933,
-    "HTTP UNKNOWN Flood": 0.038638
+    "HTTP GET Flood": 82.111093,
+    "HTTP POST Flood": 14.900533,
+    "HTTP HEAD Flood": 2.346422,
+    "HTTP OPTIONS Flood": 0.301164,
+    "HTTP PATCH Flood": 0.110623,
+    "HTTP DELETE Flood": 0.102494,
+    "HTTP PUT Flood": 0.089447,
+    "HTTP UNKNOWN Flood": 0.038224
   },
   "l7_industries": {
-    "Retail": 17.923418,
-    "Information Technology and Services": 17.166513,
-    "Computer Software": 15.06253,
-    "Gambling & Casinos": 6.773259,
-    "Internet": 4.571887,
-    "Telecommunications": 4.373933,
-    "Cryptocurrency": 2.775175,
-    "Online Media": 2.319574,
-    "Financial Services": 2.248315,
-    "Media": 2.043581
+    "Retail": 17.77497,
+    "Information Technology and Services": 17.257905,
+    "Computer Software": 15.075884,
+    "Gambling & Casinos": 6.805906,
+    "Internet": 4.552826,
+    "Telecommunications": 4.342925,
+    "Cryptocurrency": 2.755668,
+    "Online Media": 2.295635,
+    "Financial Services": 2.238405,
+    "Media": 2.053322
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-08-24T03:06:27Z"
+  "updatedAt": "2026-08-24T04:49:16Z"
 }
