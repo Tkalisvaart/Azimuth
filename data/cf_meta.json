@@ -1,47 +1,47 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 33.9017,
-    "Udp Flood": 21.108436,
-    "Syn Flood": 18.938826,
-    "Mirai (Tcp) Flood": 8.934641,
-    "Dns Amplification": 7.219443,
-    "Ack Flood": 2.04114,
-    "Sfu Flood": 1.918462,
-    "Dns Flood": 1.116044,
-    "Ssdp Flood": 1.028239,
-    "Other": 3.793067
+    "Mirai (Udp) Flood": 28.4142,
+    "Mirai (Tcp) Flood": 23.855373,
+    "Udp Flood": 19.027645,
+    "Syn Flood": 14.152776,
+    "Dns Amplification": 5.682658,
+    "Sfu Flood": 1.805906,
+    "Ack Flood": 1.784364,
+    "Dns Flood": 0.913183,
+    "Ssdp Flood": 0.910244,
+    "Other": 3.453651
   },
   "l3_protocols": {
-    "UDP": 69.167615,
-    "TCP": 30.700001,
-    "GRE": 0.05746,
-    "ICMP": 0.03001
+    "UDP": 59.089259,
+    "TCP": 40.542617,
+    "GRE": 0.305809,
+    "ICMP": 0.024257
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.505626,
-    "HTTP POST Flood": 14.761431,
-    "HTTP HEAD Flood": 1.851013,
-    "HTTP OPTIONS Flood": 0.501863,
-    "HTTP PATCH Flood": 0.17022,
-    "HTTP DELETE Flood": 0.116624,
-    "HTTP PUT Flood": 0.085837,
-    "HTTP UNKNOWN Flood": 0.007342,
-    "HTTP ACL Flood": 4.5e-05
+    "HTTP GET Flood": 82.053321,
+    "HTTP POST Flood": 15.234707,
+    "HTTP HEAD Flood": 1.826067,
+    "HTTP OPTIONS Flood": 0.503175,
+    "HTTP PATCH Flood": 0.170834,
+    "HTTP DELETE Flood": 0.115935,
+    "HTTP PUT Flood": 0.088373,
+    "HTTP UNKNOWN Flood": 0.007526,
+    "HTTP ACL Flood": 6.2e-05
   },
   "l7_industries": {
-    "Computer Software": 18.261607,
-    "Retail": 15.716557,
-    "Information Technology and Services": 9.466436,
-    "Internet": 6.270053,
-    "Gambling & Casinos": 5.164096,
-    "Cryptocurrency": 4.541576,
-    "Telecommunications": 4.228328,
-    "Information Services": 4.183333,
-    "Research": 2.842923,
-    "Financial Services": 2.631986
+    "Computer Software": 17.85886,
+    "Retail": 15.523048,
+    "Information Technology and Services": 9.679267,
+    "Internet": 6.299052,
+    "Cryptocurrency": 4.590611,
+    "Telecommunications": 4.316618,
+    "Information Services": 4.113959,
+    "Gambling & Casinos": 4.058698,
+    "Research": 3.05186,
+    "Online Media": 2.941404
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-10-09T15:56:37Z"
+  "updatedAt": "2026-10-09T20:44:16Z"
 }
