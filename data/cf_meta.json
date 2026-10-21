@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 76.154397,
-    "Udp Flood": 9.224653,
-    "Syn Flood": 4.128268,
-    "Ssdp Flood": 2.494666,
-    "Dns Amplification": 1.496028,
-    "Sfu Flood": 1.43619,
-    "Ack Flood": 0.876478,
-    "Mirai (Tcp) Flood": 0.789142,
-    "Memcached Flood": 0.582669,
-    "Other": 2.817512
+    "Mirai (Udp) Flood": 78.868355,
+    "Udp Flood": 6.81214,
+    "Syn Flood": 4.282606,
+    "Ssdp Flood": 2.597066,
+    "Sfu Flood": 1.697243,
+    "Dns Amplification": 1.493823,
+    "Ack Flood": 1.205952,
+    "Memcached Flood": 0.575878,
+    "Ntp Amplification": 0.534951,
+    "Other": 1.931987
   },
   "l3_protocols": {
-    "UDP": 93.461663,
-    "TCP": 6.16888,
-    "GRE": 0.330046,
-    "ICMP": 0.038828
+    "UDP": 93.742657,
+    "TCP": 5.957697,
+    "GRE": 0.258719,
+    "ICMP": 0.040146
   },
   "l7_methods": {
-    "HTTP GET Flood": 83.06842,
-    "HTTP POST Flood": 13.801353,
-    "HTTP HEAD Flood": 2.242682,
-    "HTTP OPTIONS Flood": 0.578176,
-    "HTTP PATCH Flood": 0.129947,
-    "HTTP PUT Flood": 0.087801,
-    "HTTP DELETE Flood": 0.073061,
-    "HTTP UNKNOWN Flood": 0.01856
+    "HTTP GET Flood": 82.726337,
+    "HTTP POST Flood": 14.146423,
+    "HTTP HEAD Flood": 2.208893,
+    "HTTP OPTIONS Flood": 0.598906,
+    "HTTP PATCH Flood": 0.135107,
+    "HTTP PUT Flood": 0.092128,
+    "HTTP DELETE Flood": 0.073576,
+    "HTTP UNKNOWN Flood": 0.018629
   },
   "l7_industries": {
-    "Computer Software": 19.812,
-    "Retail": 11.185995,
-    "Information Technology and Services": 8.397865,
-    "Telecommunications": 7.322389,
-    "Internet": 6.554963,
-    "Gambling & Casinos": 4.777891,
-    "Cryptocurrency": 4.059018,
-    "Education Management": 3.970162,
-    "Research": 3.815212,
-    "Information Services": 2.783816
+    "Computer Software": 19.732203,
+    "Retail": 11.079045,
+    "Information Technology and Services": 8.635055,
+    "Telecommunications": 7.465025,
+    "Internet": 6.685504,
+    "Gambling & Casinos": 5.030879,
+    "Cryptocurrency": 4.180903,
+    "Research": 4.002499,
+    "Education Management": 3.23291,
+    "Information Services": 2.828013
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-10-21T14:56:42Z"
+  "updatedAt": "2026-10-21T19:12:05Z"
 }
