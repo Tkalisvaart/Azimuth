@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 79.927769,
-    "Udp Flood": 5.99699,
-    "Syn Flood": 4.355924,
-    "Ssdp Flood": 2.544796,
-    "Sfu Flood": 1.514636,
-    "Dns Amplification": 1.481795,
-    "Ack Flood": 1.236119,
-    "Memcached Flood": 0.56881,
-    "Ntp Amplification": 0.548995,
-    "Other": 1.824167
+    "Mirai (Udp) Flood": 81.04681,
+    "Udp Flood": 5.271411,
+    "Syn Flood": 4.291875,
+    "Ssdp Flood": 2.249398,
+    "Sfu Flood": 1.792499,
+    "Dns Amplification": 1.282673,
+    "Ack Flood": 1.185096,
+    "Memcached Flood": 0.558952,
+    "Ntp Amplification": 0.542773,
+    "Other": 1.778514
   },
   "l3_protocols": {
-    "UDP": 93.623773,
-    "TCP": 6.096686,
-    "GRE": 0.229176,
-    "ICMP": 0.048998
+    "UDP": 93.759442,
+    "TCP": 5.999985,
+    "GRE": 0.192717,
+    "ICMP": 0.046488
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.380388,
-    "HTTP POST Flood": 14.53168,
-    "HTTP HEAD Flood": 2.143206,
-    "HTTP OPTIONS Flood": 0.620628,
-    "HTTP PATCH Flood": 0.139134,
-    "HTTP PUT Flood": 0.094298,
-    "HTTP DELETE Flood": 0.072832,
-    "HTTP UNKNOWN Flood": 0.017835
+    "HTTP GET Flood": 82.576497,
+    "HTTP POST Flood": 14.426782,
+    "HTTP HEAD Flood": 2.043127,
+    "HTTP OPTIONS Flood": 0.621591,
+    "HTTP PATCH Flood": 0.142612,
+    "HTTP PUT Flood": 0.098781,
+    "HTTP DELETE Flood": 0.073189,
+    "HTTP UNKNOWN Flood": 0.017421
   },
   "l7_industries": {
-    "Computer Software": 19.628785,
-    "Retail": 11.340265,
-    "Information Technology and Services": 8.848472,
-    "Internet": 7.038855,
-    "Telecommunications": 6.180607,
-    "Gambling & Casinos": 5.014301,
-    "Cryptocurrency": 4.333911,
-    "Research": 4.215651,
-    "Information Services": 2.770357,
-    "Education Management": 2.566915
+    "Computer Software": 19.497654,
+    "Retail": 11.837093,
+    "Information Technology and Services": 9.056353,
+    "Internet": 7.191102,
+    "Gambling & Casinos": 5.10907,
+    "Telecommunications": 4.737237,
+    "Cryptocurrency": 4.530771,
+    "Research": 4.334524,
+    "Information Services": 2.744317,
+    "Gaming": 2.405647
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-10-21T23:05:03Z"
+  "updatedAt": "2026-10-22T03:56:54Z"
 }
