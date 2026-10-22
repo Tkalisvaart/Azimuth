@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 87.579176,
-    "Udp Flood": 4.121876,
-    "Sfu Flood": 1.464222,
-    "Ssdp Flood": 1.399668,
-    "Syn Flood": 1.275561,
-    "Ack Flood": 1.103072,
-    "Dns Amplification": 0.674204,
-    "Memcached Flood": 0.482582,
-    "Ntp Amplification": 0.446484,
-    "Other": 1.453154
+    "Mirai (Udp) Flood": 69.913745,
+    "Udp Flood": 22.404381,
+    "Syn Flood": 1.298137,
+    "Ack Flood": 1.205055,
+    "Sfu Flood": 1.167155,
+    "Ssdp Flood": 1.124812,
+    "Dns Amplification": 0.403568,
+    "Memcached Flood": 0.401433,
+    "Tcp Flood": 0.382855,
+    "Other": 1.69886
   },
   "l3_protocols": {
-    "UDP": 96.850081,
-    "TCP": 2.927823,
-    "GRE": 0.192043,
-    "ICMP": 0.028675
+    "UDP": 96.526871,
+    "TCP": 3.289005,
+    "GRE": 0.164583,
+    "ICMP": 0.019072
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.126964,
-    "HTTP POST Flood": 15.200107,
-    "HTTP HEAD Flood": 1.80535,
-    "HTTP OPTIONS Flood": 0.568733,
-    "HTTP PATCH Flood": 0.134167,
-    "HTTP PUT Flood": 0.079577,
-    "HTTP DELETE Flood": 0.070997,
-    "HTTP UNKNOWN Flood": 0.014105
+    "HTTP GET Flood": 82.317152,
+    "HTTP POST Flood": 14.802761,
+    "HTTP HEAD Flood": 2.064473,
+    "HTTP OPTIONS Flood": 0.535956,
+    "HTTP PATCH Flood": 0.132543,
+    "HTTP PUT Flood": 0.07175,
+    "HTTP DELETE Flood": 0.063951,
+    "HTTP UNKNOWN Flood": 0.011414
   },
   "l7_industries": {
-    "Computer Software": 18.474644,
-    "Retail": 11.86711,
-    "Information Technology and Services": 9.489467,
-    "Internet": 7.05444,
-    "Research": 4.865937,
-    "Cryptocurrency": 4.58786,
-    "Gambling & Casinos": 4.536775,
-    "Telecommunications": 3.497544,
-    "Information Services": 2.655116,
-    "Gaming": 2.535021
+    "Computer Software": 18.168776,
+    "Retail": 11.705162,
+    "Information Technology and Services": 9.397118,
+    "Internet": 7.543787,
+    "Research": 4.893612,
+    "Cryptocurrency": 4.419169,
+    "Gambling & Casinos": 4.40343,
+    "Telecommunications": 3.429317,
+    "Adult Entertainment": 3.11123,
+    "Information Services": 2.660514
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-10-22T14:56:43Z"
+  "updatedAt": "2026-10-22T19:07:22Z"
 }
