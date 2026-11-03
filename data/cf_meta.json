@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 51.594219,
-    "Udp Flood": 20.674572,
-    "Syn Flood": 7.18833,
-    "Mirai (Tcp) Flood": 6.96013,
-    "Dns Flood": 3.381466,
-    "Gre Flood": 3.338692,
-    "Ack Flood": 2.354189,
-    "Sfu Flood": 1.396724,
-    "Quic Flood": 0.822435,
-    "Other": 2.289242
+    "Mirai (Udp) Flood": 50.784172,
+    "Udp Flood": 18.46035,
+    "Mirai (Tcp) Flood": 8.581833,
+    "Syn Flood": 7.22213,
+    "Dns Flood": 5.031962,
+    "Gre Flood": 3.083932,
+    "Ack Flood": 2.618408,
+    "Sfu Flood": 1.01327,
+    "Quic Flood": 0.738877,
+    "Other": 2.465065
   },
   "l3_protocols": {
-    "UDP": 78.954011,
-    "TCP": 17.473608,
-    "GRE": 3.352777,
-    "ICMP": 0.031707
+    "UDP": 77.355805,
+    "TCP": 19.340308,
+    "GRE": 3.096886,
+    "ICMP": 0.034202
   },
   "l7_methods": {
-    "HTTP GET Flood": 83.59512,
-    "HTTP POST Flood": 13.381256,
-    "HTTP HEAD Flood": 2.039314,
-    "HTTP OPTIONS Flood": 0.563683,
-    "HTTP PATCH Flood": 0.166154,
-    "HTTP DELETE Flood": 0.123637,
-    "HTTP PUT Flood": 0.116654,
-    "HTTP UNKNOWN Flood": 0.014182
+    "HTTP GET Flood": 83.025733,
+    "HTTP POST Flood": 13.826409,
+    "HTTP HEAD Flood": 2.067473,
+    "HTTP OPTIONS Flood": 0.590935,
+    "HTTP PATCH Flood": 0.192146,
+    "HTTP DELETE Flood": 0.141701,
+    "HTTP PUT Flood": 0.14024,
+    "HTTP UNKNOWN Flood": 0.015363
   },
   "l7_industries": {
-    "Computer Software": 19.851772,
-    "Retail": 11.691268,
-    "Information Technology and Services": 8.348408,
-    "Internet": 4.79085,
-    "Gambling & Casinos": 4.706315,
-    "Research": 4.69127,
-    "Consumer Services": 4.612428,
-    "Hospitality": 4.487966,
-    "Cryptocurrency": 4.409589,
-    "Telecommunications": 4.146436
+    "Computer Software": 20.319074,
+    "Retail": 11.056598,
+    "Information Technology and Services": 8.346381,
+    "Gambling & Casinos": 5.342724,
+    "Internet": 4.850089,
+    "Research": 4.592475,
+    "Hospitality": 4.583867,
+    "Cryptocurrency": 4.425638,
+    "Telecommunications": 4.15225,
+    "Consumer Services": 3.873918
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-03T18:16:33Z"
+  "updatedAt": "2026-11-03T23:53:15Z"
 }
