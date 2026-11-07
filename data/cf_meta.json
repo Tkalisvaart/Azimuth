@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 41.300397,
-    "Udp Flood": 33.847849,
-    "Syn Flood": 14.642396,
-    "Sfu Flood": 3.858658,
-    "Gre Flood": 1.125503,
-    "Dns Flood": 1.031862,
-    "Quic Flood": 0.977816,
-    "Mirai (Tcp) Flood": 0.798793,
-    "Dns Amplification": 0.680492,
-    "Other": 1.736234
+    "Mirai (Udp) Flood": 37.396032,
+    "Udp Flood": 36.533941,
+    "Syn Flood": 15.38662,
+    "Sfu Flood": 3.94381,
+    "Gre Flood": 1.294012,
+    "Dns Flood": 1.13388,
+    "Quic Flood": 1.103608,
+    "Dns Amplification": 0.621647,
+    "Mirai (Tcp) Flood": 0.489494,
+    "Other": 2.096955
   },
   "l3_protocols": {
-    "UDP": 82.785353,
-    "TCP": 16.024201,
-    "GRE": 1.132738,
-    "ICMP": 0.037799
+    "UDP": 81.995999,
+    "TCP": 16.630238,
+    "GRE": 1.306318,
+    "ICMP": 0.044209
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.641986,
-    "HTTP POST Flood": 13.607498,
-    "HTTP HEAD Flood": 2.858824,
-    "HTTP OPTIONS Flood": 0.458306,
-    "HTTP PATCH Flood": 0.145904,
-    "HTTP PUT Flood": 0.118191,
-    "HTTP DELETE Flood": 0.106976,
-    "HTTP UNKNOWN Flood": 0.062315
+    "HTTP GET Flood": 82.373714,
+    "HTTP POST Flood": 13.712699,
+    "HTTP HEAD Flood": 3.030884,
+    "HTTP OPTIONS Flood": 0.443706,
+    "HTTP PATCH Flood": 0.145261,
+    "HTTP DELETE Flood": 0.113523,
+    "HTTP PUT Flood": 0.107684,
+    "HTTP UNKNOWN Flood": 0.072528
   },
   "l7_industries": {
-    "Computer Software": 21.944134,
-    "Retail": 11.034854,
-    "Information Technology and Services": 10.808173,
-    "Gambling & Casinos": 6.707174,
-    "Consumer Services": 5.119503,
-    "Telecommunications": 4.901992,
-    "Internet": 4.817514,
-    "Cryptocurrency": 4.629028,
-    "Media": 3.020969,
-    "Research": 2.143884
+    "Computer Software": 22.992346,
+    "Information Technology and Services": 11.395056,
+    "Retail": 10.618147,
+    "Gambling & Casinos": 6.735973,
+    "Consumer Services": 5.29423,
+    "Telecommunications": 4.983895,
+    "Cryptocurrency": 4.65228,
+    "Internet": 4.610966,
+    "Real Estate": 2.371337,
+    "Research": 2.010267
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-07T13:48:04Z"
+  "updatedAt": "2026-11-07T18:30:51Z"
 }
