@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 62.67058,
-    "Udp Flood": 16.095684,
-    "Syn Flood": 8.442032,
-    "Sfu Flood": 5.532327,
-    "Tcp Flood": 1.218798,
-    "Dns Flood": 0.838825,
-    "Ack Flood": 0.814744,
-    "Quic Flood": 0.697125,
-    "Gre Flood": 0.655204,
-    "Other": 3.034682
+    "Mirai (Udp) Flood": 52.042326,
+    "Syn Flood": 20.432927,
+    "Udp Flood": 14.694118,
+    "Sfu Flood": 4.054211,
+    "Tcp Flood": 1.480195,
+    "Dns Flood": 1.138419,
+    "Mirai (Tcp) Flood": 1.038763,
+    "Quic Flood": 0.842919,
+    "Ack Flood": 0.816233,
+    "Other": 3.459891
   },
   "l3_protocols": {
-    "UDP": 87.493607,
-    "TCP": 11.819362,
-    "GRE": 0.655261,
-    "ICMP": 0.030408
+    "UDP": 74.341719,
+    "TCP": 24.87413,
+    "GRE": 0.746368,
+    "ICMP": 0.034147
   },
   "l7_methods": {
-    "HTTP GET Flood": 82.772981,
-    "HTTP POST Flood": 14.481126,
-    "HTTP HEAD Flood": 1.801128,
-    "HTTP OPTIONS Flood": 0.536643,
-    "HTTP PATCH Flood": 0.143834,
-    "HTTP DELETE Flood": 0.102223,
-    "HTTP PUT Flood": 0.089231,
-    "HTTP UNKNOWN Flood": 0.072834
+    "HTTP GET Flood": 82.593852,
+    "HTTP POST Flood": 14.122221,
+    "HTTP HEAD Flood": 2.175188,
+    "HTTP OPTIONS Flood": 0.620595,
+    "HTTP PATCH Flood": 0.156738,
+    "HTTP DELETE Flood": 0.11601,
+    "HTTP UNKNOWN Flood": 0.115282,
+    "HTTP PUT Flood": 0.100115
   },
   "l7_industries": {
-    "Computer Software": 20.763213,
-    "Retail": 11.508468,
-    "Information Technology and Services": 10.328623,
-    "Internet": 6.284944,
-    "Consumer Services": 5.318143,
-    "Telecommunications": 4.966331,
-    "Cryptocurrency": 4.276787,
-    "Gambling & Casinos": 3.845885,
-    "Information Services": 2.623272,
-    "Research": 2.618181
+    "Computer Software": 21.488692,
+    "Retail": 11.59652,
+    "Information Technology and Services": 10.915089,
+    "Internet": 6.233544,
+    "Telecommunications": 4.619859,
+    "Cryptocurrency": 4.482524,
+    "Consumer Services": 4.221593,
+    "Gambling & Casinos": 4.196057,
+    "Research": 2.708642,
+    "Information Services": 2.211206
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-10T09:27:51Z"
+  "updatedAt": "2026-11-10T17:33:00Z"
 }
