@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 35.083623,
-    "Tcp Flood": 21.159836,
-    "Udp Flood": 13.724618,
-    "Syn Flood": 8.389611,
-    "Bogon Flood": 7.677011,
-    "Tcp Flags Flood": 7.057618,
-    "Sfu Flood": 1.726027,
-    "Dns Flood": 1.272524,
-    "Mirai (Tcp) Flood": 0.823742,
-    "Other": 3.085389
+    "Mirai (Udp) Flood": 29.817098,
+    "Tcp Flood": 22.7957,
+    "Udp Flood": 9.599849,
+    "Syn Flood": 8.142742,
+    "Bogon Flood": 7.942794,
+    "Tcp Flags Flood": 7.861211,
+    "Dns Amplification": 3.983647,
+    "Mirai (Tcp) Flood": 3.234886,
+    "Udp Fragments Flood": 2.525398,
+    "Other": 4.096675
   },
   "l3_protocols": {
-    "UDP": 53.393158,
-    "TCP": 45.993331,
-    "GRE": 0.549057,
-    "ICMP": 0.044644
+    "TCP": 50.408315,
+    "UDP": 49.320397,
+    "GRE": 0.249465,
+    "ICMP": 0.020982
   },
   "l7_methods": {
-    "HTTP GET Flood": 81.077849,
-    "HTTP POST Flood": 15.199734,
-    "HTTP HEAD Flood": 2.32478,
-    "HTTP OPTIONS Flood": 0.851934,
-    "HTTP PATCH Flood": 0.215782,
-    "HTTP DELETE Flood": 0.152734,
-    "HTTP PUT Flood": 0.131305,
-    "HTTP UNKNOWN Flood": 0.045882
+    "HTTP GET Flood": 81.171843,
+    "HTTP POST Flood": 14.722413,
+    "HTTP HEAD Flood": 2.649971,
+    "HTTP OPTIONS Flood": 0.894023,
+    "HTTP PATCH Flood": 0.217943,
+    "HTTP DELETE Flood": 0.157534,
+    "HTTP PUT Flood": 0.139442,
+    "HTTP UNKNOWN Flood": 0.04683
   },
   "l7_industries": {
-    "Computer Software": 23.8239,
-    "Retail": 12.318956,
-    "Information Technology and Services": 10.352885,
-    "Internet": 7.129517,
-    "Cryptocurrency": 4.410052,
-    "Gambling & Casinos": 4.405509,
-    "Telecommunications": 3.830867,
-    "Research": 2.772091,
-    "Online Media": 2.767656,
-    "Media": 2.060359
+    "Computer Software": 23.608788,
+    "Retail": 12.131113,
+    "Information Technology and Services": 10.837853,
+    "Internet": 6.638423,
+    "Gambling & Casinos": 4.592588,
+    "Cryptocurrency": 4.387642,
+    "Telecommunications": 3.707677,
+    "Research": 2.800775,
+    "Online Media": 2.425956,
+    "Media": 2.142685
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-13T05:48:32Z"
+  "updatedAt": "2026-11-13T14:14:50Z"
 }
