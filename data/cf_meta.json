@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 53.255629,
-    "Udp Flood": 16.660781,
-    "Syn Flood": 9.06593,
-    "Tcp Flood": 7.461671,
-    "Sfu Flood": 2.843256,
-    "Tcp Flags Flood": 2.435121,
-    "Bogon Flood": 2.060658,
-    "Dns Flood": 1.406981,
-    "Ack Flood": 0.804466,
-    "Other": 4.005506
+    "Mirai (Udp) Flood": 58.260002,
+    "Udp Flood": 14.672843,
+    "Tcp Flood": 7.632879,
+    "Sfu Flood": 3.67538,
+    "Syn Flood": 3.033874,
+    "Tcp Flags Flood": 2.367426,
+    "Mirai (Tcp) Flood": 2.056004,
+    "Bogon Flood": 1.911915,
+    "Dns Flood": 1.822659,
+    "Other": 4.567019
   },
   "l3_protocols": {
-    "UDP": 76.668353,
-    "TCP": 22.877105,
-    "GRE": 0.418914,
-    "ICMP": 0.034401
+    "UDP": 81.217613,
+    "TCP": 17.888723,
+    "GRE": 0.843811,
+    "ICMP": 0.048091
   },
   "l7_methods": {
-    "HTTP GET Flood": 80.305621,
-    "HTTP POST Flood": 15.38318,
-    "HTTP HEAD Flood": 3.20146,
-    "HTTP OPTIONS Flood": 0.714812,
-    "HTTP PATCH Flood": 0.126921,
-    "HTTP DELETE Flood": 0.126824,
-    "HTTP PUT Flood": 0.096717,
-    "HTTP UNKNOWN Flood": 0.044466
+    "HTTP GET Flood": 81.539102,
+    "HTTP POST Flood": 14.461563,
+    "HTTP HEAD Flood": 2.900831,
+    "HTTP OPTIONS Flood": 0.698098,
+    "HTTP PATCH Flood": 0.132549,
+    "HTTP DELETE Flood": 0.126287,
+    "HTTP PUT Flood": 0.097228,
+    "HTTP UNKNOWN Flood": 0.044343
   },
   "l7_industries": {
-    "Computer Software": 25.997364,
-    "Retail": 12.543182,
-    "Information Technology and Services": 11.484428,
-    "Internet": 5.091644,
-    "Gambling & Casinos": 4.325054,
-    "Cryptocurrency": 4.25937,
-    "Telecommunications": 3.718316,
-    "Research": 2.359183,
-    "Financial Services": 2.170376,
-    "Media": 1.966853
+    "Computer Software": 25.89309,
+    "Retail": 13.028738,
+    "Information Technology and Services": 11.031214,
+    "Internet": 4.954459,
+    "Gambling & Casinos": 4.872314,
+    "Cryptocurrency": 4.206257,
+    "Telecommunications": 3.595117,
+    "Research": 2.425529,
+    "Financial Services": 2.277619,
+    "Information Services": 2.109998
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-15T08:57:44Z"
+  "updatedAt": "2026-11-15T16:14:46Z"
 }
