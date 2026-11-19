@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 38.897733,
-    "Udp Flood": 23.985502,
-    "Syn Flood": 19.960339,
-    "Sfu Flood": 2.882205,
-    "Tcp Flood": 2.682809,
-    "Mirai (Tcp) Flood": 2.060694,
-    "Tcp Flags Flood": 1.465888,
-    "Gre Flood": 1.443038,
-    "Quic Flood": 1.267193,
-    "Other": 5.3546
+    "Mirai (Udp) Flood": 40.769062,
+    "Udp Flood": 23.503538,
+    "Syn Flood": 19.652722,
+    "Sfu Flood": 2.955874,
+    "Mirai (Tcp) Flood": 2.076441,
+    "Tcp Flood": 2.044016,
+    "Gre Flood": 1.431383,
+    "Quic Flood": 1.238434,
+    "Tcp Flags Flood": 1.196446,
+    "Other": 5.132087
   },
   "l3_protocols": {
-    "UDP": 70.280795,
-    "TCP": 28.143417,
-    "GRE": 1.445839,
-    "ICMP": 0.117173
+    "UDP": 71.327875,
+    "TCP": 27.099102,
+    "GRE": 1.434168,
+    "ICMP": 0.126174
   },
   "l7_methods": {
-    "HTTP GET Flood": 81.840703,
-    "HTTP POST Flood": 14.567634,
-    "HTTP HEAD Flood": 2.587666,
-    "HTTP OPTIONS Flood": 0.522231,
-    "HTTP PATCH Flood": 0.19576,
-    "HTTP DELETE Flood": 0.144224,
-    "HTTP PUT Flood": 0.101848,
-    "HTTP UNKNOWN Flood": 0.039934
+    "HTTP GET Flood": 81.918064,
+    "HTTP POST Flood": 14.488122,
+    "HTTP HEAD Flood": 2.593047,
+    "HTTP OPTIONS Flood": 0.538536,
+    "HTTP PATCH Flood": 0.196222,
+    "HTTP DELETE Flood": 0.12668,
+    "HTTP PUT Flood": 0.099103,
+    "HTTP UNKNOWN Flood": 0.040225
   },
   "l7_industries": {
-    "Computer Software": 24.097008,
-    "Retail": 13.162238,
-    "Information Technology and Services": 11.069027,
-    "Gambling & Casinos": 6.84122,
-    "Internet": 5.84732,
-    "Telecommunications": 3.363663,
-    "Research": 2.941158,
-    "Media": 2.4505,
-    "Information Services": 2.450255,
-    "Cryptocurrency": 2.413497
+    "Computer Software": 23.853234,
+    "Retail": 13.601416,
+    "Information Technology and Services": 11.307258,
+    "Internet": 6.087582,
+    "Gambling & Casinos": 5.651887,
+    "Telecommunications": 3.824264,
+    "Research": 2.864901,
+    "Media": 2.431737,
+    "Cryptocurrency": 2.396708,
+    "Information Services": 2.353616
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-18T21:11:12Z"
+  "updatedAt": "2026-11-19T02:59:08Z"
 }
