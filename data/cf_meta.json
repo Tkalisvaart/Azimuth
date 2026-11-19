@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 49.124682,
-    "Udp Flood": 19.623409,
-    "Syn Flood": 11.422493,
-    "Mirai (Tcp) Flood": 3.162046,
-    "Dns Flood": 2.876404,
-    "Ack Flood": 2.843716,
-    "Tcp Flood": 2.029627,
-    "Sfu Flood": 1.71843,
-    "Gre Flood": 1.302252,
-    "Other": 5.896941
+    "Mirai (Udp) Flood": 31.740325,
+    "Syn Flood": 23.671877,
+    "Udp Flood": 19.502945,
+    "Dns Flood": 8.550191,
+    "Tcp Flood": 5.385298,
+    "Ack Flood": 3.801498,
+    "Sfu Flood": 1.038442,
+    "Bogon Flood": 0.984978,
+    "Tcp Flags Flood": 0.980056,
+    "Other": 4.344393
   },
   "l3_protocols": {
-    "UDP": 76.393183,
-    "TCP": 22.232372,
-    "GRE": 1.305221,
-    "ICMP": 0.064682
+    "UDP": 63.257092,
+    "TCP": 35.993432,
+    "GRE": 0.684023,
+    "ICMP": 0.063194
   },
   "l7_methods": {
-    "HTTP GET Flood": 81.320791,
-    "HTTP POST Flood": 15.15477,
-    "HTTP HEAD Flood": 2.4651,
-    "HTTP OPTIONS Flood": 0.549017,
-    "HTTP PATCH Flood": 0.242159,
-    "HTTP DELETE Flood": 0.125039,
-    "HTTP PUT Flood": 0.102017,
-    "HTTP UNKNOWN Flood": 0.041107
+    "HTTP GET Flood": 82.018152,
+    "HTTP POST Flood": 14.522932,
+    "HTTP HEAD Flood": 2.278697,
+    "HTTP OPTIONS Flood": 0.544929,
+    "HTTP PATCH Flood": 0.36704,
+    "HTTP DELETE Flood": 0.124471,
+    "HTTP PUT Flood": 0.104068,
+    "HTTP UNKNOWN Flood": 0.039712
   },
   "l7_industries": {
-    "Computer Software": 24.176529,
-    "Retail": 14.227417,
-    "Information Technology and Services": 11.354993,
-    "Internet": 6.554982,
-    "Telecommunications": 4.245622,
-    "Gambling & Casinos": 3.862182,
-    "Research": 2.737211,
-    "Information Services": 2.324298,
-    "Financial Services": 2.262153,
-    "Cryptocurrency": 2.247599
+    "Computer Software": 24.342588,
+    "Retail": 13.256775,
+    "Information Technology and Services": 12.271617,
+    "Internet": 6.342824,
+    "Gambling & Casinos": 4.20319,
+    "Telecommunications": 4.143709,
+    "Research": 3.079441,
+    "Financial Services": 2.530694,
+    "Online Media": 2.320007,
+    "Cryptocurrency": 2.164188
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-19T11:27:32Z"
+  "updatedAt": "2026-11-19T20:13:45Z"
 }
