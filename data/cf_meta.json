@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 61.932245,
-    "Mirai (Tcp) Flood": 19.021481,
-    "Udp Flood": 11.351266,
-    "Syn Flood": 2.71384,
-    "Sfu Flood": 1.271856,
-    "Dns Flood": 0.555845,
-    "Bogon Flood": 0.434189,
-    "Ack Flood": 0.426375,
-    "Gre Flood": 0.353694,
-    "Other": 1.939212
+    "Mirai (Udp) Flood": 53.370506,
+    "Mirai (Tcp) Flood": 22.634497,
+    "Udp Flood": 14.454907,
+    "Syn Flood": 3.085199,
+    "Sfu Flood": 1.834444,
+    "Dns Flood": 0.68512,
+    "Ack Flood": 0.57609,
+    "Bogon Flood": 0.510418,
+    "Quic Flood": 0.48789,
+    "Other": 2.36093
   },
   "l3_protocols": {
-    "UDP": 76.59246,
-    "TCP": 23.008464,
-    "GRE": 0.354243,
-    "ICMP": 0.023956
+    "UDP": 72.219802,
+    "TCP": 27.3041,
+    "GRE": 0.422657,
+    "ICMP": 0.028545
   },
   "l7_methods": {
-    "HTTP GET Flood": 77.837178,
-    "HTTP POST Flood": 17.710137,
-    "HTTP HEAD Flood": 3.320045,
-    "HTTP OPTIONS Flood": 0.640793,
-    "HTTP DELETE Flood": 0.167979,
-    "HTTP PATCH Flood": 0.162313,
-    "HTTP PUT Flood": 0.131034,
-    "HTTP UNKNOWN Flood": 0.03052
+    "HTTP GET Flood": 78.13617,
+    "HTTP POST Flood": 17.417245,
+    "HTTP HEAD Flood": 3.277517,
+    "HTTP OPTIONS Flood": 0.661756,
+    "HTTP DELETE Flood": 0.170942,
+    "HTTP PATCH Flood": 0.16639,
+    "HTTP PUT Flood": 0.140664,
+    "HTTP UNKNOWN Flood": 0.029317
   },
   "l7_industries": {
-    "Computer Software": 26.279686,
-    "Information Technology and Services": 12.415012,
-    "Retail": 11.411702,
-    "Gambling & Casinos": 6.73626,
-    "Internet": 5.657492,
-    "Research": 3.374904,
-    "Telecommunications": 3.341452,
-    "Cryptocurrency": 2.295915,
-    "Media": 2.156137,
-    "Financial Services": 2.005369
+    "Computer Software": 26.354928,
+    "Information Technology and Services": 12.23986,
+    "Retail": 11.298313,
+    "Gambling & Casinos": 7.102117,
+    "Internet": 5.588319,
+    "Research": 3.363981,
+    "Telecommunications": 3.167482,
+    "Cryptocurrency": 2.254474,
+    "Consumer Services": 2.228502,
+    "Media": 2.18745
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-21T22:54:29Z"
+  "updatedAt": "2026-11-22T02:53:49Z"
 }
