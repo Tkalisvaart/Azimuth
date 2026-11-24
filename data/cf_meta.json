@@ -1,14 +1,46 @@
 {
   "l3_vectors": {
-    "Network DDoS": 100.0
+    "Mirai (Udp) Flood": 41.160308,
+    "Udp Flood": 35.153515,
+    "Syn Flood": 6.427364,
+    "Mirai (Tcp) Flood": 6.282656,
+    "Ack Flood": 3.275882,
+    "Tcp Flood": 2.82103,
+    "Sfu Flood": 1.520315,
+    "Dns Flood": 0.787152,
+    "Bogon Flood": 0.710727,
+    "Other": 1.861051
   },
-  "l3_protocols": {},
+  "l3_protocols": {
+    "UDP": 79.89312,
+    "TCP": 19.837051,
+    "GRE": 0.222509,
+    "ICMP": 0.019477
+  },
   "l7_methods": {
-    "HTTP Flood": 100.0
+    "HTTP GET Flood": 79.49392,
+    "HTTP POST Flood": 16.437138,
+    "HTTP HEAD Flood": 2.449932,
+    "HTTP OPTIONS Flood": 1.131494,
+    "HTTP PATCH Flood": 0.183065,
+    "HTTP DELETE Flood": 0.143387,
+    "HTTP PUT Flood": 0.117158,
+    "HTTP UNKNOWN Flood": 0.043906
   },
-  "l7_industries": {},
+  "l7_industries": {
+    "Computer Software": 24.682665,
+    "Retail": 12.520606,
+    "Information Technology and Services": 10.679511,
+    "Internet": 6.34312,
+    "Hospitality": 6.002868,
+    "Gambling & Casinos": 4.603009,
+    "Telecommunications": 3.482321,
+    "Cryptocurrency": 2.460917,
+    "Research": 2.442646,
+    "Information Services": 1.999317
+  },
   "bgp_count": 0,
-  "l3_count": 0,
-  "l7_count": 0,
-  "updatedAt": "2026-11-23T21:01:53Z"
+  "l3_count": 900,
+  "l7_count": 600,
+  "updatedAt": "2026-11-24T05:15:09Z"
 }
