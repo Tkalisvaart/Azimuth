@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 70.116102,
-    "Udp Flood": 10.755586,
-    "Dns Amplification": 6.104792,
-    "Mirai (Tcp) Flood": 4.588543,
-    "Udp Fragments Flood": 4.024571,
-    "Sfu Flood": 1.113081,
-    "Dns Flood": 0.887596,
-    "Syn Flood": 0.412892,
-    "Ssdp Flood": 0.374073,
-    "Other": 1.622766
+    "Mirai (Udp) Flood": 49.805805,
+    "Mirai (Tcp) Flood": 20.600395,
+    "Udp Flood": 9.203994,
+    "Dns Amplification": 8.458496,
+    "Udp Fragments Flood": 6.249403,
+    "Dns Flood": 1.217669,
+    "Sfu Flood": 0.954467,
+    "Syn Flood": 0.927309,
+    "Ssdp Flood": 0.667492,
+    "Other": 1.914973
   },
   "l3_protocols": {
-    "UDP": 94.204048,
-    "TCP": 5.587637,
-    "GRE": 0.192611,
-    "ICMP": 0.014847
+    "UDP": 77.402703,
+    "TCP": 22.390262,
+    "GRE": 0.190891,
+    "ICMP": 0.015272
   },
   "l7_methods": {
-    "HTTP GET Flood": 83.86174,
-    "HTTP POST Flood": 12.529851,
-    "HTTP HEAD Flood": 2.272429,
-    "HTTP OPTIONS Flood": 0.972145,
-    "HTTP PATCH Flood": 0.131882,
-    "HTTP DELETE Flood": 0.106979,
-    "HTTP PUT Flood": 0.086942,
-    "HTTP UNKNOWN Flood": 0.038032
+    "HTTP GET Flood": 83.546811,
+    "HTTP POST Flood": 12.732486,
+    "HTTP HEAD Flood": 2.442423,
+    "HTTP OPTIONS Flood": 0.898771,
+    "HTTP PATCH Flood": 0.133062,
+    "HTTP DELETE Flood": 0.114516,
+    "HTTP PUT Flood": 0.094577,
+    "HTTP UNKNOWN Flood": 0.037353
   },
   "l7_industries": {
-    "Computer Software": 22.585621,
-    "Retail": 13.227801,
-    "Information Technology and Services": 9.808408,
-    "Internet": 6.088015,
-    "Hospitality": 4.698463,
-    "Gambling & Casinos": 3.870308,
-    "Telecommunications": 3.678701,
-    "Consumer Services": 3.597775,
-    "Research": 2.916691,
-    "Financial Services": 2.86322
+    "Computer Software": 22.837491,
+    "Retail": 12.846058,
+    "Information Technology and Services": 10.319159,
+    "Internet": 5.626909,
+    "Hospitality": 4.338341,
+    "Gambling & Casinos": 4.10001,
+    "Consumer Services": 3.783704,
+    "Telecommunications": 3.596977,
+    "Research": 3.124116,
+    "Financial Services": 2.649236
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-26T14:49:06Z"
+  "updatedAt": "2026-11-26T23:33:40Z"
 }
