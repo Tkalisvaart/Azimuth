@@ -1,46 +1,46 @@
 {
   "l3_vectors": {
-    "Mirai (Udp) Flood": 39.115022,
-    "Mirai (Tcp) Flood": 25.031909,
-    "Dns Amplification": 10.924713,
-    "Udp Flood": 10.753326,
-    "Udp Fragments Flood": 8.562779,
-    "Sfu Flood": 1.080499,
-    "Syn Flood": 0.967788,
-    "Dns Flood": 0.882904,
-    "Ssdp Flood": 0.525968,
-    "Other": 2.15509
+    "Mirai (Tcp) Flood": 30.473467,
+    "Mirai (Udp) Flood": 27.982202,
+    "Dns Amplification": 13.796683,
+    "Udp Fragments Flood": 10.452091,
+    "Udp Flood": 10.09701,
+    "Syn Flood": 2.908682,
+    "Dns Flood": 0.941633,
+    "Sfu Flood": 0.829533,
+    "Ack Flood": 0.431181,
+    "Other": 2.087518
   },
   "l3_protocols": {
-    "UDP": 72.668053,
-    "TCP": 27.079843,
-    "GRE": 0.209716,
-    "ICMP": 0.020646
+    "UDP": 65.119082,
+    "TCP": 34.622986,
+    "GRE": 0.209504,
+    "ICMP": 0.027157
   },
   "l7_methods": {
-    "HTTP GET Flood": 83.226462,
-    "HTTP POST Flood": 13.07245,
-    "HTTP HEAD Flood": 2.439414,
-    "HTTP OPTIONS Flood": 0.86761,
-    "HTTP PATCH Flood": 0.134778,
-    "HTTP DELETE Flood": 0.119052,
-    "HTTP PUT Flood": 0.101163,
-    "HTTP UNKNOWN Flood": 0.03907
+    "HTTP GET Flood": 82.75057,
+    "HTTP POST Flood": 13.312726,
+    "HTTP HEAD Flood": 2.718333,
+    "HTTP OPTIONS Flood": 0.817216,
+    "HTTP PATCH Flood": 0.140832,
+    "HTTP DELETE Flood": 0.120762,
+    "HTTP PUT Flood": 0.0995,
+    "HTTP UNKNOWN Flood": 0.040061
   },
   "l7_industries": {
-    "Computer Software": 22.863375,
-    "Retail": 12.726527,
-    "Information Technology and Services": 10.212877,
-    "Internet": 5.615913,
-    "Hospitality": 4.13114,
-    "Gambling & Casinos": 4.037272,
-    "Consumer Services": 3.763989,
-    "Telecommunications": 3.527722,
-    "Research": 2.890927,
-    "Financial Services": 2.457809
+    "Computer Software": 22.465149,
+    "Retail": 12.61369,
+    "Information Technology and Services": 10.857267,
+    "Internet": 5.754398,
+    "Gambling & Casinos": 4.129971,
+    "Hospitality": 3.833088,
+    "Consumer Services": 3.804789,
+    "Telecommunications": 3.459153,
+    "Newspapers": 2.703932,
+    "Research": 2.52147
   },
   "bgp_count": 0,
   "l3_count": 900,
   "l7_count": 600,
-  "updatedAt": "2026-11-27T07:30:52Z"
+  "updatedAt": "2026-11-27T17:56:42Z"
 }
